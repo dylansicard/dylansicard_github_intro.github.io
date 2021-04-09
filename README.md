@@ -35,11 +35,11 @@
 
 From the dropdown menu, select "Create New Repository".
 
-![drop down](/images/dropdown.PNG)
+![drop down](./images/dropdown.PNG)
 
 From here, all you have to do is give your repository a name and description, click "create repository" and *voila* -- you have your first repository.
 
-![repository creation](/images/repositoryCreation.PNG)
+![repository creation](../images/repositoryCreation.PNG)
 
 <br>
 
