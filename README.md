@@ -1,4 +1,4 @@
-# A basic introduction to Github
+# A Basic Introduction to Github
 #### By Dylan Sicard
 <br>
 
