@@ -17,10 +17,10 @@
 ### ***Getting Started***
 **First** you will need to make an account. Navigate in your browser to https://github.com/ and click "sign up" in the top right corner. Enter the requested information to proceed.
 
-![Github home screen](./Images/githubLanding.PNG)
+![Github home screen](./githubLanding.PNG)
 <br>
 
-![Github Create Account Page](./Images/createAccount.PNG)
+![Github Create Account Page](./createAccount.PNG)
 
 <br>
 
@@ -31,15 +31,15 @@
 ### ***Creating a Repository***
 **Once** you have created an account and are logged into Github, you can create a repository. From the landing page, click the plus sign in the top right corner!
 
-![](./Images/plusSign.PNG)
+![](./plusSign.PNG)
 
 From the dropdown menu, select "Create New Repository".
 
-![](./Images/dropdown.PNG)
+![](./dropdown.PNG)
 
 From here, all you have to do is give your repository a name and description, click "create repository" and *voila* -- you have your first repository.
 
-![](./Images/repositoryCreation.PNG)
+![](./repositoryCreation.PNG)
 
 <br>
 
